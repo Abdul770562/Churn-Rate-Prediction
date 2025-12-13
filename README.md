@@ -99,5 +99,3 @@ Integrate an automated email system to send alerts for "At-Risk" customers.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 Created by : Mohammed Abdul Qadir Shaikh
-
-Created by [Your Name
